@@ -1,4 +1,3 @@
-# hackerrgx24
 import json
 
 import requests
